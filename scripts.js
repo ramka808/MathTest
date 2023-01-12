@@ -19,7 +19,7 @@ function checkTest() {
     result++
   }
 
-  if (a3 == 0) {
+  if (a3 == 2) {
     result++;
   }
 
