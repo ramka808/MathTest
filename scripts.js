@@ -12,11 +12,11 @@ function checkTest() {
   let a5 = document.getElementById("q5").value;
 
   if (a1 == 100) {
-    result++;
+    result++
   }
 
   if (a2 == 10000) {
-    result++;
+    result++
   }
 
   if (a3 == 0) {
